@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #ecdfcc;
+    overflow-x: hidden;
+}
+
