@@ -111,11 +111,11 @@ body.light header .toggle-switchmode .moon {
 }
 
 .member-image {
-    width: 100%;
+    width: 150px;
     height: 150px;
     background-color: #ccc;
-    margin-bottom: 16px;
     border-radius: 8px;
+    object-fit: cover;
 }
 
 .member-name {
